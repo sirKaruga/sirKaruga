@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sirKaruga
 - 👀 I’m interested in fullstack development, Mobile development
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on s/w dev
 - 📫 How to reach me karugadennisnjeri@gmail.com
 
